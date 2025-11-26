@@ -1,5 +1,5 @@
 // Rome Diaz-Rivero - 11/26/2025
-// This application prints "Hello, World!" and the numbers 0 to 9. It does not print squares.
+// This application prints "Hello, World!" and the numbers 0 to 9, along with their squares.
 
 console.log("Hello world!");
 
